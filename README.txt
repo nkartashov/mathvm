@@ -1,4 +1,6 @@
-                Introduction.
+My (@nkartashov) code is located in directory students/2014/kartashov. Everything else belongs to its respective owners.
+-----------------------------------------------------------------------------------
+               Introduction.
 
   This folder contains partial source code for a simple VM, with few intentionally 
  missed pieces. This VM implements simple language (MVM language) with basic
@@ -72,3 +74,5 @@
 
   Build shall be pretty straightforward, just type 'make' in command
  line (known to work with MacOS and Linux). Use 'make OPT=1' for an optimized build.
+
+
